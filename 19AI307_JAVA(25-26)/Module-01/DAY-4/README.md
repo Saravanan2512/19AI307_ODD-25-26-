@@ -7,7 +7,7 @@ Write a Java program to print all elements in an array that are greater than a g
 
 
 ## AIM:
-
+To write a Java program that prints all elements in an array that are greater than a given value.
 
 ## ALGORITHM :
 1.	Start the program.
@@ -66,4 +66,5 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program successfully reads an array and a comparison value, and it correctly displays all elements greater than the given value or shows an appropriate message when no such elements are f
+
 
